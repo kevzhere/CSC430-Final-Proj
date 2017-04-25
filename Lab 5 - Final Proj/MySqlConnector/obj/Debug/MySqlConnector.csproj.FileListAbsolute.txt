@@ -1,0 +1,7 @@
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\bin\Debug\MySqlConnector.dll
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\bin\Debug\MySqlConnector.pdb
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\bin\Debug\MySql.Data.dll
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\bin\Debug\MySql.Data.xml
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\obj\Debug\MySqlConnector.csprojResolveAssemblyReference.cache
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\obj\Debug\MySqlConnector.dll
+C:\Users\Kevinz\Desktop\Lab5_CSC430\MySqlConnector\obj\Debug\MySqlConnector.pdb
